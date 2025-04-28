@@ -18,12 +18,6 @@ Este projeto é uma aplicação Java simples criada com o objetivo de praticar:
 
 ---
 
-## ⚙️ Como executar o projeto
-
-**Pré-requisitos**:
-- Ter o [Java 17](https://jdk.java.net/17/) instalado.
-- Ter o [Maven](https://maven.apache.org/) instalado.
-
 **Passos para rodar**:
 
 1. Clone o repositório:
