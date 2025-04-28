@@ -1,9 +1,3 @@
-Perfeito, Márcio! Entendi seu objetivo: **tratamento de exceções**, **consumo de API** e **gravação de arquivos JSON**.
-
-Vou criar um **README.md** bem feito, didático e direto ao ponto para o seu projeto, como se fosse para colocar no seu GitHub:
-
----
-
 # 📦 cepApi
 
 Este projeto é uma aplicação Java simples criada com o objetivo de praticar:
